@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\CPA\CPA.Data\bin\Debug\net6.0\CPA.Data.deps.json
+C:\Users\lucas\source\repos\CPA\CPA.Data\bin\Debug\net6.0\CPA.Data.dll
+C:\Users\lucas\source\repos\CPA\CPA.Data\bin\Debug\net6.0\CPA.Data.pdb
+C:\Users\lucas\source\repos\CPA\CPA.Data\obj\Debug\net6.0\CPA.Data.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\CPA\CPA.Data\obj\Debug\net6.0\CPA.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\CPA\CPA.Data\obj\Debug\net6.0\CPA.Data.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\CPA\CPA.Data\obj\Debug\net6.0\CPA.Data.AssemblyInfo.cs
+C:\Users\lucas\source\repos\CPA\CPA.Data\obj\Debug\net6.0\CPA.Data.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CPA\CPA.Data\obj\Debug\net6.0\CPA.Data.dll
+C:\Users\lucas\source\repos\CPA\CPA.Data\obj\Debug\net6.0\refint\CPA.Data.dll
+C:\Users\lucas\source\repos\CPA\CPA.Data\obj\Debug\net6.0\CPA.Data.pdb
+C:\Users\lucas\source\repos\CPA\CPA.Data\obj\Debug\net6.0\ref\CPA.Data.dll
+C:\Users\lucas\source\repos\CPA\CPA.Data\bin\Debug\net6.0\CPA.Commom.dll
+C:\Users\lucas\source\repos\CPA\CPA.Data\bin\Debug\net6.0\CPA.Commom.pdb
+C:\Users\lucas\source\repos\CPA\CPA.Data\obj\Debug\net6.0\CPA.Data.csproj.CopyComplete

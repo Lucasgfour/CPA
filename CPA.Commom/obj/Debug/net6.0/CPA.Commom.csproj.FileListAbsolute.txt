@@ -1,0 +1,12 @@
+C:\Users\lucas\source\repos\CPA\CPA.Commom\obj\Debug\net6.0\CPA.Commom.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\CPA\CPA.Commom\obj\Debug\net6.0\CPA.Commom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\CPA\CPA.Commom\obj\Debug\net6.0\CPA.Commom.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\CPA\CPA.Commom\obj\Debug\net6.0\CPA.Commom.AssemblyInfo.cs
+C:\Users\lucas\source\repos\CPA\CPA.Commom\obj\Debug\net6.0\CPA.Commom.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CPA\CPA.Commom\bin\Debug\net6.0\CPA.Commom.deps.json
+C:\Users\lucas\source\repos\CPA\CPA.Commom\bin\Debug\net6.0\CPA.Commom.dll
+C:\Users\lucas\source\repos\CPA\CPA.Commom\bin\Debug\net6.0\CPA.Commom.pdb
+C:\Users\lucas\source\repos\CPA\CPA.Commom\obj\Debug\net6.0\CPA.Commom.dll
+C:\Users\lucas\source\repos\CPA\CPA.Commom\obj\Debug\net6.0\refint\CPA.Commom.dll
+C:\Users\lucas\source\repos\CPA\CPA.Commom\obj\Debug\net6.0\CPA.Commom.pdb
+C:\Users\lucas\source\repos\CPA\CPA.Commom\obj\Debug\net6.0\ref\CPA.Commom.dll

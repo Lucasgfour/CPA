@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cGvHsY9ByYepAZhaMeC/LNjDVxLsICpqDDKDOiaJEpw=",
+  "Source": "CPA.ApplicationWeb",
+  "BasePath": "_content/CPA.ApplicationWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

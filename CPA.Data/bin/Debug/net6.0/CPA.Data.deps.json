@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CPA.Data/1.0.0": {
+        "dependencies": {
+          "CPA.Commom": "1.0.0"
+        },
+        "runtime": {
+          "CPA.Data.dll": {}
+        }
+      },
+      "CPA.Commom/1.0.0": {
+        "runtime": {
+          "CPA.Commom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPA.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CPA.Commom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
