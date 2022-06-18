@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.ApplicationWeb\\CPA.ApplicationWeb.csproj": {}
+    "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.ApplicationWeb\\CPA.ApplicationWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.ApplicationWeb\\CPA.ApplicationWeb.csproj": {
+    "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.ApplicationWeb\\CPA.ApplicationWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.ApplicationWeb\\CPA.ApplicationWeb.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.ApplicationWeb\\CPA.ApplicationWeb.csproj",
         "projectName": "CPA.ApplicationWeb",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.ApplicationWeb\\CPA.ApplicationWeb.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.ApplicationWeb\\CPA.ApplicationWeb.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.ApplicationWeb\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.ApplicationWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,17 +28,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Commom\\CPA.Commom.csproj": {
-                "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Commom\\CPA.Commom.csproj"
+              "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Commom\\CPA.Commom.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Commom\\CPA.Commom.csproj"
               },
-              "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Data\\CPA.Data.csproj": {
-                "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Data\\CPA.Data.csproj"
+              "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Data\\CPA.Data.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Data\\CPA.Data.csproj"
               },
-              "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Repository\\CPA.Repository.csproj": {
-                "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Repository\\CPA.Repository.csproj"
+              "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Repository\\CPA.Repository.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Repository\\CPA.Repository.csproj"
               },
-              "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Service\\CPA.Service.csproj": {
-                "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Service\\CPA.Service.csproj"
+              "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Service\\CPA.Service.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Service\\CPA.Service.csproj"
               }
             }
           }
@@ -96,18 +96,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Commom\\CPA.Commom.csproj": {
+    "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Commom\\CPA.Commom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Commom\\CPA.Commom.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Commom\\CPA.Commom.csproj",
         "projectName": "CPA.Commom",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Commom\\CPA.Commom.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Commom\\CPA.Commom.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Commom\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Commom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,18 +150,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Data\\CPA.Data.csproj": {
+    "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Data\\CPA.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Data\\CPA.Data.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Data\\CPA.Data.csproj",
         "projectName": "CPA.Data",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Data\\CPA.Data.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Data\\CPA.Data.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Data\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -178,8 +178,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Commom\\CPA.Commom.csproj": {
-                "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Commom\\CPA.Commom.csproj"
+              "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Commom\\CPA.Commom.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Commom\\CPA.Commom.csproj"
               }
             }
           }
@@ -208,18 +208,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Repository\\CPA.Repository.csproj": {
+    "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Repository\\CPA.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Repository\\CPA.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Repository\\CPA.Repository.csproj",
         "projectName": "CPA.Repository",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Repository\\CPA.Repository.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Repository\\CPA.Repository.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Repository\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -236,8 +236,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Data\\CPA.Data.csproj": {
-                "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Data\\CPA.Data.csproj"
+              "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Data\\CPA.Data.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Data\\CPA.Data.csproj"
               }
             }
           }
@@ -288,18 +288,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Service\\CPA.Service.csproj": {
+    "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Service\\CPA.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Service\\CPA.Service.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Service\\CPA.Service.csproj",
         "projectName": "CPA.Service",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Service\\CPA.Service.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Service\\CPA.Service.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Service\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -316,11 +316,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Data\\CPA.Data.csproj": {
-                "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Data\\CPA.Data.csproj"
+              "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Data\\CPA.Data.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Data\\CPA.Data.csproj"
               },
-              "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Repository\\CPA.Repository.csproj": {
-                "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Repository\\CPA.Repository.csproj"
+              "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Repository\\CPA.Repository.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Repository\\CPA.Repository.csproj"
               }
             }
           }
@@ -349,7 +349,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -7,6 +7,8 @@ namespace CPA.Service.Interface {
 
         Questionario? GetByChave(string chave);
 
+        ICollection<Questionario> GetAll(int instituicao);
+
         void Add(Questionario questionario, int instituicaoId);
 
         void Update(Questionario questionario);

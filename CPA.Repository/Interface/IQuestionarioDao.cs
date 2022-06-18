@@ -7,6 +7,8 @@ namespace CPA.Repository.Interface {
 
         Questionario? GetByChave(string chave);
 
+        ICollection<Questionario> GetAll(int instituicao);
+
         void Add(Questionario questionario);
 
         void Update(Questionario questionario);

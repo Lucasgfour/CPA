@@ -20,6 +20,13 @@ app.UseHttpsRedirection();
 
 app.MapControllers();
 
+app.UseCors(x => x
+            .AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader());
+
+app.UseHttpsRedirection();
+
 app.ConfigureExceptionHandler();
 
 app.MapGet("/", () => "Servidor API -> CPA Fácil");

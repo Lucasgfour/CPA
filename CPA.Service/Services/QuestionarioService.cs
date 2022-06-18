@@ -39,6 +39,14 @@ namespace CPA.Service.Services {
 
         }
 
+        public ICollection<Questionario> GetAll(int instituicao) {
+
+            var questionarios = _questionarioDao.GetAll(instituicao);
+
+            return questionarios;
+
+        }
+
         public void Add(Questionario questionario, int instituicaoId) {
 
             questionario.instituicao = _instituicaoDao.GetById(instituicaoId);

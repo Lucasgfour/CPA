@@ -36,6 +36,19 @@ namespace CPA.Repository.Dao {
 
         }
 
+        public ICollection<Questionario> GetAll(int instituicao) {
+
+            var list = _context
+                .questionarios
+                .AsNoTracking()
+                .Include(x => x.instituicao)
+                .Where(x => x.instituicao.id == instituicao)
+                .ToList();
+
+            return list;
+
+        }
+
         public void Add(Questionario questionario) {
 
             _context.questionarios.Add(questionario);

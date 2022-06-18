@@ -3,7 +3,7 @@ using CPA.Repository.Interface;
 using Microsoft.EntityFrameworkCore;
 
 namespace CPA.Repository.Dao {
-    internal class PerguntaDao : IPerguntaDao {
+    internal class PerguntaDao {
 
         private readonly IQuestionarioDao _questionarioDao;
         private readonly Context _context;
@@ -23,7 +23,7 @@ namespace CPA.Repository.Dao {
                 .Where(x => x.questionario.id == questionarioId)
                 .ToList();
 
-
+            return perguntas;
         }
 
     }

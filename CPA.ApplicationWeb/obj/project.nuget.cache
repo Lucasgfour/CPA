@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HM2foimdSWqntSuKIuKvJjTe8JRzKeZqc2ZrV7VYFIU1pvpYU8G90UPLO5VOQ3Y6Zuq4+bvVSWIK8ZDAoRUArg==",
+  "dgSpecHash": "Ha9TkvxptxvVN/B52bNvgdOAT32dxB/UBP7dO4uMi/I0MTdHD/SD0/ju8mAqgFYyH87xo5Z0FPr0sHiYBPIT3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.ApplicationWeb\\CPA.ApplicationWeb.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.ApplicationWeb\\CPA.ApplicationWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",

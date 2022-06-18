@@ -23,6 +23,15 @@ namespace CPA.ApplicationWeb.Controller {
 
         }
 
+        [Route("lista/{instituicaoId}")]
+        public ResponseResult<ICollection<Questionario>> GetAll([FromRoute]int instituicaoId) {
+
+            var questionarios = _questionarioService.GetAll(instituicaoId);
+
+            return new ResponseResult<ICollection<Questionario>>(true, "OK", questionarios);
+
+        }
+
         [Route("id/{id}")]
         [HttpGet]
         public ResponseResult<Questionario> GetById([FromRoute] int id) {

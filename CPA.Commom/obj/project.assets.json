@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Commom\\CPA.Commom.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Commom\\CPA.Commom.csproj",
       "projectName": "CPA.Commom",
-      "projectPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Commom\\CPA.Commom.csproj",
+      "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Commom\\CPA.Commom.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\source\\repos\\CPA\\CPA.Commom\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\CPA\\CPA.Commom\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
