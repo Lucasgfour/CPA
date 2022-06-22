@@ -19,7 +19,7 @@ namespace CPA.ApplicationWeb {
 
                         ResponseResult<Object> result = new ResponseResult<Object>(false, ex.Message);
 
-                        await context.Response.WriteAsync(JsonConvert.SerializeObject(result), Encoding.UTF8);
+                        await context.Response.WriteAsync(JsonConvert.SerializeObject(result).Replace("Message", "message").Replace("Success", "success").Replace("Data", "data"), Encoding.UTF8);
                     }
                 });
             });

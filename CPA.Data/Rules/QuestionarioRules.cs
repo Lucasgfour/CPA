@@ -20,6 +20,7 @@ namespace CPA.Data.Rules {
 
         public void ValidationUpdate(Questionario obj) {
 
+            rule.isTrue(obj.data_inicio > obj.data_fim, "Data final deve ser maior que data final.");
             rule.isNullOrEmpty(obj.titulo, "Obrigatório informar um título.");
             rule.isNullOrEmpty(obj.descricao, "Obrigatório informar uma descrição.");
 
